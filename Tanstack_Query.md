@@ -5,7 +5,6 @@
 - [Tanstack Query (formerly React Query) notes](#tanstack-query-formerly-react-query-notes)
   - [Some useful links](#some-useful-links)
   - [How to install and set up Tanstack Query](#how-to-install-and-set-up-tanstack-query)
-- [Query and Mutation](#query-and-mutation)
   - [Queries](#queries)
   - [Mutation](#mutation)
     - [`useMutation` callback functions](#usemutation-callback-functions)
@@ -66,15 +65,6 @@ ReactDOM.createRoot(document.getElementById("root")).render(
 ```
 
 `QueryClient` keeps the cache of all queries made and tracks their state, while `QueryClientProvider` makes `QueryClient` available anywhere in your application.
-
-# Query and Mutation
-
-2 main things that you can do with React query is a **query** and a **mutation**.
-
-- A **query** is getting data from somewhere. For example, fetching data from the server is an act of performing a query.
-- A **mutation** is changing some data. For example, creating a new post.
-
-<hr>
 
 ## Queries
 
