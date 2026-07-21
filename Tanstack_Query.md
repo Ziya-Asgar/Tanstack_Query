@@ -19,30 +19,30 @@
 
 ## Getting Started
 
-[Getting Started](./TS_GettingStarted.md)
+[Getting Started](./Topics/TS_GettingStarted.md)
 
 <hr>
 
 ## Queries
 
-[Queries](./TS_Queries.md)
+[Queries](./Topics/TS_Queries.md)
 
 <hr>
 
 ## Mutations
 
-[Mutations](./TS_Mutations.md)
+[Mutations](./Topics/TS_Mutations.md)
 
 <hr>
 
 ## Query Results in Pages
 
-[Query Results in Pages](./TS_QueriesInPages.md)
+[Query Results in Pages](./Topics/TS_QueriesInPages.md)
 
 <hr>
 
 ## Query with Infinite Scrolling
 
-[Query with Infinite Scrolling](.//TS_QueriesScrolling.md)
+[Query with Infinite Scrolling](./Topics/TS_QueriesScrolling.md)
 
 <hr>
