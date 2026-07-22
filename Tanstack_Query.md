@@ -1,48 +1,30 @@
-# Tanstack Query (formerly React Query) notes
+# Tanstack Query (formerly React Query) Notes
 
-<hr>
+- [Tanstack Query (formerly React Query) Notes](#tanstack-query-formerly-react-query-notes)
+  - [Some Useful Links](#some-useful-links)
+  - [Topics](#topics)
 
-- [Tanstack Query (formerly React Query) notes](#tanstack-query-formerly-react-query-notes)
-  - [Some useful links](#some-useful-links)
-  - [Getting Started](#getting-started)
-  - [Queries](#queries)
-  - [Mutations](#mutations)
-  - [Query Results in Pages](#query-results-in-pages)
-  - [Query with Infinite Scrolling](#query-with-infinite-scrolling)
+---
 
-<hr>
+---
 
-## Some useful links
+## Some Useful Links
 
 - https://www.youtube.com/watch?v=k1tus-TmqCE
 - https://blog.logrocket.com/deep-dive-mutations-tanstack-query/
 
-## Getting Started
+---
 
-[Getting Started](./Topics/TS_GettingStarted.md)
+---
 
-<hr>
+## Topics
 
-## Queries
+- [Getting Started](./Topics/TS_GettingStarted.md)
+- [Queries](./Topics/TS_Queries.md)
+- [Mutations](./Topics/TS_Mutations.md)
+- [Query Results in Pages](./Topics/TS_QueriesInPages.md)
+- [Query with Infinite Scrolling](./Topics/TS_QueriesScrolling.md)
 
-[Queries](./Topics/TS_Queries.md)
+---
 
-<hr>
-
-## Mutations
-
-[Mutations](./Topics/TS_Mutations.md)
-
-<hr>
-
-## Query Results in Pages
-
-[Query Results in Pages](./Topics/TS_QueriesInPages.md)
-
-<hr>
-
-## Query with Infinite Scrolling
-
-[Query with Infinite Scrolling](./Topics/TS_QueriesScrolling.md)
-
-<hr>
+---
